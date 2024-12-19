@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/groundplace_clone/static/css/main.ec18aad7.css",
+    "main.js": "/groundplace_clone/static/js/main.bf67ef30.js",
+    "static/media/NotoSerif-Regular.ttf": "/groundplace_clone/static/media/NotoSerif-Regular.0a96c61e5140580de060.ttf",
+    "index.html": "/groundplace_clone/index.html",
+    "main.ec18aad7.css.map": "/groundplace_clone/static/css/main.ec18aad7.css.map",
+    "main.bf67ef30.js.map": "/groundplace_clone/static/js/main.bf67ef30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec18aad7.css",
+    "static/js/main.bf67ef30.js"
+  ]
+}
